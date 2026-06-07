@@ -1,9 +1,0 @@
-{
-  "version": 2,
-  "builds": [
-    { "src": "ayush_portfolioo.html", "use": "@vercel/static" }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "/ayush_portfolioo.html" }
-  ]
-}
